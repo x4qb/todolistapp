@@ -12,7 +12,6 @@ export default {
 			status: 200,
 			headers: {
 				...commonHeaders,
-				'Theme-Color': '#c6c5c4',
 				'Content-Type': 'text/html'
 			}
 		})
